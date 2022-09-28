@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Eduardo",
+      "lastname": "Rojas",
+      "email": "e@gmail.com",
+      "dni": "13",
+      "phone": "",
+      "adress": "",
+      "password": "eduardito"
+    },
+    {
+      "id": 2,
+      "name": "José",
+      "lastname": "Montes",
+      "email": "j@gmail.com",
+      "password": "josesito",
+      "dni": 0,
+      "phone": 0,
+      "adress": ""
+    },
+    {
+      "id": 7,
+      "name": "Mario",
+      "lastname": "bros",
+      "email": "m@gmail.com",
+      "password": "mario",
+      "dni": 0,
+      "phone": 0,
+      "adress": ""
+    },
+    {
+      "id": 8,
+      "name": "Mario",
+      "lastname": "Bros",
+      "email": "itsmario@gmail.com",
+      "password": "mario",
+      "dni": 0,
+      "phone": 0,
+      "adress": ""
+    },
+    {
+      "id": 9,
+      "name": "Finn",
+      "lastname": "theHuman",
+      "email": "finn@gmail.com",
+      "dni": "2424",
+      "phone": "123456789",
+      "adress": "Land of Ooo",
+      "password": "finn"
+    }
+  ],
+  "shops": [
+    {
+      "id": 1,
+      "idUser": 7,
+      "name": "hoy no fio mañana si",
+      "phone": "13515",
+      "adress": "sdgg",
+      "Descripción": "dsgdsgs",
+      "amountProducts": 0,
+      "Aceptación": 0
+    },
+    {
+      "id": 2,
+      "idUser": 1,
+      "name": "try 1",
+      "phone": "125",
+      "adress": "sg",
+      "Descripción": "asi es",
+      "amountProducts": 0,
+      "Aceptación": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "idShop": 2,
+      "name": "Buenas",
+      "shopname": "",
+      "pubdate": 0,
+      "condition": "",
+      "amount": 0,
+      "price": 0
+    },
+    {
+      "id": 2,
+      "idShop": 2,
+      "name": "tardes",
+      "shopname": "",
+      "pubdate": 0,
+      "condition": "",
+      "amount": 0,
+      "price": 0
+    },
+    {
+      "id": 3,
+      "idShop": 2,
+      "name": "señor",
+      "shopname": "",
+      "pubdate": 0,
+      "condition": "",
+      "amount": 0,
+      "price": 0
+    }
+  ]
+}
